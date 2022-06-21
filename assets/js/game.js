@@ -4,6 +4,11 @@ var playerName = window.prompt("What is your robot's name?");
 // this displays the input from the User so that the variable can be displayed
 console.log(playerName);
 
+var name = "your name";
+
+console.log(name);
+
+
 console.log("This logs a string, good for leaving yourself a message")
 
 console.log(10+10);
